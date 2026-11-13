@@ -1,0 +1,911 @@
+id_estudiante,programa,ciclo,periodo,promedio,cursos
+E00001,Ingeniería de Sistemas,1,2025-10,12.88,5
+E00001,Ingeniería de Sistemas,2,2025-20,10.75,4
+E00001,Ingeniería de Sistemas,3,2026-10,10.19,4
+E00002,Derecho,7,2025-10,,4
+E00002,Derecho,8,2025-20,15.07,4
+E00002,Derecho,9,2026-10,13.39,5
+E00003,Derecho,7,2025-10,,4
+E00003,Derecho,8,2025-20,16.93,5
+E00003,Derecho,9,2026-10,12.12,5
+E00004,Ingeniería Civil,6,2025-10,10.41,4
+E00004,Ingeniería Civil,7,2025-20,14.13,6
+E00004,Ingeniería Civil,8,2026-10,13.74,6
+E00005,Ingeniería de Sistemas,8,2025-10,5.14,7
+E00005,Ingeniería de Sistemas,9,2025-20,11.18,4
+E00005,Ingeniería de Sistemas,10,2026-10,7.66,6
+E00006,Derecho,4,2025-10,11.19,4
+E00006,Derecho,5,2025-20,15.07,6
+E00006,Derecho,6,2026-10,,4
+E00007,Ingeniería Civil,2,2025-10,10.59,6
+E00007,Ingeniería Civil,3,2025-20,15.26,5
+E00007,Ingeniería Civil,4,2026-10,11.59,6
+E00008,Ingeniería de Sistemas,3,2025-10,14.5,5
+E00008,Ingeniería de Sistemas,4,2025-20,14.52,5
+E00008,Ingeniería de Sistemas,5,2026-10,15.51,6
+E00009,Ingeniería de Sistemas,4,2025-10,15.37,7
+E00009,Ingeniería de Sistemas,5,2025-20,8.12,6
+E00009,Ingeniería de Sistemas,6,2026-10,19.07,6
+E00010,Ingeniería Civil,8,2025-10,15.68,7
+E00010,Ingeniería Civil,9,2025-20,16.22,5
+E00010,Ingeniería Civil,10,2026-10,10.15,6
+E00011,Ingeniería Civil,4,2025-10,12.88,7
+E00011,Ingeniería Civil,5,2025-20,9.27,7
+E00011,Ingeniería Civil,6,2026-10,6.32,5
+E00012,Derecho,8,2025-10,20.0,4
+E00012,Derecho,9,2025-20,13.22,5
+E00012,Derecho,10,2026-10,7.04,5
+E00013,Contabilidad,2,2025-10,9.97,7
+E00013,Contabilidad,3,2025-20,15.68,6
+E00013,Contabilidad,4,2026-10,18.86,4
+E00014,Ingeniería de Sistemas,5,2025-10,11.92,6
+E00014,Ingeniería de Sistemas,6,2025-20,15.45,7
+E00014,Ingeniería de Sistemas,7,2026-10,15.07,4
+E00015,Administración,3,2025-10,11.58,6
+E00015,Administración,4,2025-20,12.93,5
+E00015,Administración,5,2026-10,15.92,4
+E00016,Derecho,6,2025-10,17.17,7
+E00016,Derecho,7,2025-20,19.85,6
+E00016,Derecho,8,2026-10,13.84,5
+E00017,Ingeniería de Sistemas,4,2025-10,18.24,4
+E00017,Ingeniería de Sistemas,5,2025-20,7.96,7
+E00017,Ingeniería de Sistemas,6,2026-10,16.34,5
+E00018,Ingeniería Civil,8,2025-10,5.42,5
+E00018,Ingeniería Civil,9,2025-20,12.42,7
+E00018,Ingeniería Civil,10,2026-10,19.06,5
+E00019,Derecho,4,2025-10,12.3,6
+E00019,Derecho,5,2025-20,10.05,7
+E00019,Derecho,6,2026-10,15.66,5
+E00020,Ingeniería Civil,2,2025-10,11.06,6
+E00020,Ingeniería Civil,3,2025-20,16.78,5
+E00020,Ingeniería Civil,4,2026-10,13.5,4
+E00021,Ingeniería de Sistemas,1,2025-10,13.86,6
+E00021,Ingeniería de Sistemas,2,2025-20,19.46,4
+E00021,Ingeniería de Sistemas,3,2026-10,10.59,7
+E00022,Ingeniería Civil,3,2025-10,12.78,7
+E00022,Ingeniería Civil,4,2025-20,13.15,7
+E00022,Ingeniería Civil,5,2026-10,16.39,5
+E00023,Ingeniería de Sistemas,2,2025-10,11.48,7
+E00023,Ingeniería de Sistemas,3,2025-20,10.64,7
+E00023,Ingeniería de Sistemas,4,2026-10,13.66,4
+E00024,Ingeniería de Sistemas,7,2025-10,12.24,6
+E00024,Ingeniería de Sistemas,8,2025-20,13.45,5
+E00024,Ingeniería de Sistemas,9,2026-10,11.63,5
+E00025,Derecho,8,2025-10,14.22,7
+E00025,Derecho,9,2025-20,14.47,5
+E00025,Derecho,10,2026-10,13.84,4
+E00026,Ingeniería de Sistemas,1,2025-10,12.16,4
+E00026,Ingeniería de Sistemas,2,2025-20,18.22,5
+E00026,Ingeniería de Sistemas,3,2026-10,10.4,7
+E00027,Contabilidad,8,2025-10,13.69,4
+E00027,Contabilidad,9,2025-20,15.96,5
+E00027,Contabilidad,10,2026-10,6.68,6
+E00028,Contabilidad,5,2025-10,19.01,7
+E00028,Contabilidad,6,2025-20,11.4,7
+E00028,Contabilidad,7,2026-10,8.41,5
+E00029,Ingeniería Civil,5,2025-10,13.21,4
+E00029,Ingeniería Civil,6,2025-20,14.02,6
+E00029,Ingeniería Civil,7,2026-10,16.72,5
+E00030,Ingeniería de Sistemas,2,2025-10,14.4,5
+E00030,Ingeniería de Sistemas,3,2025-20,14.02,5
+E00030,Ingeniería de Sistemas,4,2026-10,13.47,7
+E00031,Ingeniería de Sistemas,4,2025-10,12.25,4
+E00031,Ingeniería de Sistemas,5,2025-20,12.59,7
+E00031,Ingeniería de Sistemas,6,2026-10,10.87,6
+E00032,Administración,4,2025-10,9.77,6
+E00032,Administración,5,2025-20,13.21,6
+E00032,Administración,6,2026-10,16.0,7
+E00033,Administración,2,2025-10,17.17,4
+E00033,Administración,3,2025-20,13.24,4
+E00033,Administración,4,2026-10,9.54,5
+E00034,Administración,2,2025-10,12.17,5
+E00034,Administración,3,2025-20,11.8,6
+E00034,Administración,4,2026-10,14.29,4
+E00035,Derecho,5,2025-10,14.28,5
+E00035,Derecho,6,2025-20,12.42,6
+E00035,Derecho,7,2026-10,14.07,5
+E00036,Administración,5,2025-10,13.95,5
+E00036,Administración,6,2025-20,12.59,6
+E00036,Administración,7,2026-10,11.02,7
+E00037,Administración,1,2025-10,15.63,6
+E00037,Administración,2,2025-20,14.73,4
+E00037,Administración,3,2026-10,18.15,6
+E00038,Ingeniería Civil,8,2025-10,13.11,7
+E00038,Ingeniería Civil,9,2025-20,11.64,5
+E00038,Ingeniería Civil,10,2026-10,12.45,4
+E00039,Administración,3,2025-10,12.21,6
+E00039,Administración,4,2025-20,13.37,4
+E00039,Administración,5,2026-10,14.66,5
+E00040,Ingeniería de Sistemas,6,2025-10,11.78,7
+E00040,Ingeniería de Sistemas,7,2025-20,17.92,5
+E00040,Ingeniería de Sistemas,8,2026-10,12.18,5
+E00041,Ingeniería Civil,7,2025-10,17.84,6
+E00041,Ingeniería Civil,8,2025-20,13.76,7
+E00041,Ingeniería Civil,9,2026-10,14.93,5
+E00042,Administración,3,2025-10,7.33,4
+E00042,Administración,4,2025-20,12.38,7
+E00042,Administración,5,2026-10,13.57,5
+E00043,Ingeniería Civil,8,2025-10,9.74,5
+E00043,Ingeniería Civil,9,2025-20,17.51,5
+E00043,Ingeniería Civil,10,2026-10,14.94,6
+E00044,Administración,2,2025-10,13.29,6
+E00044,Administración,3,2025-20,10.87,6
+E00044,Administración,4,2026-10,15.88,4
+E00045,Ingeniería de Sistemas,5,2025-10,16.34,6
+E00045,Ingeniería de Sistemas,6,2025-20,19.93,4
+E00045,Ingeniería de Sistemas,7,2026-10,15.49,6
+E00046,Contabilidad,2,2025-10,15.02,7
+E00046,Contabilidad,3,2025-20,14.57,4
+E00046,Contabilidad,4,2026-10,11.85,7
+E00047,Ingeniería de Sistemas,4,2025-10,12.25,6
+E00047,Ingeniería de Sistemas,5,2025-20,13.86,6
+E00047,Ingeniería de Sistemas,6,2026-10,12.2,6
+E00048,Derecho,5,2025-10,11.68,7
+E00048,Derecho,6,2025-20,10.86,5
+E00048,Derecho,7,2026-10,17.12,5
+E00049,Contabilidad,7,2025-10,10.14,6
+E00049,Contabilidad,8,2025-20,7.19,7
+E00049,Contabilidad,9,2026-10,12.92,6
+E00050,Ingeniería Civil,7,2025-10,12.97,6
+E00050,Ingeniería Civil,8,2025-20,9.84,5
+E00050,Ingeniería Civil,9,2026-10,13.71,7
+E00051,Ingeniería Civil,2,2025-10,12.07,6
+E00051,Ingeniería Civil,3,2025-20,17.33,4
+E00051,Ingeniería Civil,4,2026-10,25.0,6
+E00052,Ingeniería Civil,4,2025-10,8.45,5
+E00052,Ingeniería Civil,5,2025-20,15.22,7
+E00052,Ingeniería Civil,6,2026-10,13.34,4
+E00053,Contabilidad,7,2025-10,15.97,7
+E00053,Contabilidad,8,2025-20,10.42,7
+E00053,Contabilidad,9,2026-10,11.63,4
+E00054,Ingeniería de Sistemas,7,2025-10,14.0,5
+E00054,Ingeniería de Sistemas,8,2025-20,16.39,7
+E00054,Ingeniería de Sistemas,9,2026-10,19.75,4
+E00055,Derecho,4,2025-10,14.33,5
+E00055,Derecho,5,2025-20,12.24,7
+E00055,Derecho,6,2026-10,8.59,6
+E00056,Contabilidad,7,2025-10,5.26,7
+E00056,Contabilidad,8,2025-20,16.95,7
+E00056,Contabilidad,9,2026-10,10.02,7
+E00057,Administración,4,2025-10,14.29,7
+E00057,Administración,5,2025-20,25.0,5
+E00057,Administración,6,2026-10,12.81,6
+E00058,Ingeniería Civil,5,2025-10,14.19,6
+E00058,Ingeniería Civil,6,2025-20,11.41,5
+E00058,Ingeniería Civil,7,2026-10,16.39,5
+E00059,Ingeniería Civil,7,2025-10,11.38,4
+E00059,Ingeniería Civil,8,2025-20,8.59,7
+E00059,Ingeniería Civil,9,2026-10,9.86,7
+E00060,Ingeniería de Sistemas,4,2025-10,15.06,7
+E00060,Ingeniería de Sistemas,5,2025-20,9.05,4
+E00060,Ingeniería de Sistemas,6,2026-10,16.29,7
+E00061,Contabilidad,1,2025-10,15.36,7
+E00061,Contabilidad,2,2025-20,12.11,7
+E00061,Contabilidad,3,2026-10,8.25,5
+E00062,Contabilidad,4,2025-10,11.84,6
+E00062,Contabilidad,5,2025-20,12.33,6
+E00062,Contabilidad,6,2026-10,13.29,7
+E00063,Ingeniería Civil,8,2025-10,20.0,4
+E00063,Ingeniería Civil,9,2025-20,8.92,7
+E00063,Ingeniería Civil,10,2026-10,9.29,4
+E00064,Contabilidad,3,2025-10,10.58,7
+E00064,Contabilidad,4,2025-20,13.97,6
+E00064,Contabilidad,5,2026-10,15.12,5
+E00065,Contabilidad,6,2025-10,9.77,6
+E00065,Contabilidad,7,2025-20,18.26,7
+E00065,Contabilidad,8,2026-10,12.98,4
+E00066,Derecho,1,2025-10,,6
+E00066,Derecho,2,2025-20,13.18,4
+E00066,Derecho,3,2026-10,14.12,4
+E00067,Ingeniería Civil,4,2025-10,15.22,5
+E00067,Ingeniería Civil,5,2025-20,9.46,5
+E00067,Ingeniería Civil,6,2026-10,11.54,5
+E00068,Contabilidad,5,2025-10,13.24,6
+E00068,Contabilidad,6,2025-20,15.03,4
+E00068,Contabilidad,7,2026-10,16.57,5
+E00069,Administración,2,2025-10,6.93,7
+E00069,Administración,3,2025-20,9.73,7
+E00069,Administración,4,2026-10,14.86,5
+E00070,Ingeniería de Sistemas,5,2025-10,12.28,4
+E00070,Ingeniería de Sistemas,6,2025-20,14.11,4
+E00070,Ingeniería de Sistemas,7,2026-10,9.29,6
+E00071,Derecho,7,2025-10,12.4,6
+E00071,Derecho,8,2025-20,12.04,4
+E00071,Derecho,9,2026-10,16.27,4
+E00072,Contabilidad,6,2025-10,8.48,7
+E00072,Contabilidad,7,2025-20,12.15,6
+E00072,Contabilidad,8,2026-10,9.91,7
+E00073,Contabilidad,7,2025-10,14.84,6
+E00073,Contabilidad,8,2025-20,9.43,5
+E00073,Contabilidad,9,2026-10,13.62,7
+E00074,Ingeniería Civil,8,2025-10,11.88,7
+E00074,Ingeniería Civil,9,2025-20,11.19,6
+E00074,Ingeniería Civil,10,2026-10,16.0,5
+E00075,Contabilidad,4,2025-10,11.58,6
+E00075,Contabilidad,5,2025-20,,6
+E00075,Contabilidad,6,2026-10,9.6,5
+E00076,Ingeniería de Sistemas,4,2025-10,11.76,7
+E00076,Ingeniería de Sistemas,5,2025-20,7.96,7
+E00076,Ingeniería de Sistemas,6,2026-10,13.36,7
+E00077,Contabilidad,1,2025-10,14.77,5
+E00077,Contabilidad,2,2025-20,14.17,6
+E00077,Contabilidad,3,2026-10,11.52,6
+E00078,Contabilidad,6,2025-10,10.53,6
+E00078,Contabilidad,7,2025-20,12.3,6
+E00078,Contabilidad,8,2026-10,10.72,5
+E00079,Ingeniería de Sistemas,4,2025-10,11.02,5
+E00079,Ingeniería de Sistemas,5,2025-20,17.53,5
+E00079,Ingeniería de Sistemas,6,2026-10,13.72,6
+E00080,Ingeniería de Sistemas,4,2025-10,16.38,6
+E00080,Ingeniería de Sistemas,5,2025-20,13.27,4
+E00080,Ingeniería de Sistemas,6,2026-10,14.87,5
+E00081,Administración,1,2025-10,16.76,5
+E00081,Administración,2,2025-20,12.39,7
+E00081,Administración,3,2026-10,13.38,6
+E00082,Contabilidad,8,2025-10,13.28,7
+E00082,Contabilidad,9,2025-20,8.8,6
+E00082,Contabilidad,10,2026-10,19.55,7
+E00083,Ingeniería de Sistemas,2,2025-10,12.04,4
+E00083,Ingeniería de Sistemas,3,2025-20,13.69,5
+E00083,Ingeniería de Sistemas,4,2026-10,15.28,6
+E00084,Ingeniería de Sistemas,4,2025-10,16.11,4
+E00084,Ingeniería de Sistemas,5,2025-20,10.09,5
+E00084,Ingeniería de Sistemas,6,2026-10,11.89,7
+E00085,Contabilidad,8,2025-10,11.83,7
+E00085,Contabilidad,9,2025-20,16.82,6
+E00085,Contabilidad,10,2026-10,12.04,4
+E00086,Ingeniería Civil,4,2025-10,12.56,6
+E00086,Ingeniería Civil,5,2025-20,12.06,5
+E00086,Ingeniería Civil,6,2026-10,11.52,4
+E00087,Ingeniería Civil,1,2025-10,9.15,7
+E00087,Ingeniería Civil,2,2025-20,15.49,6
+E00087,Ingeniería Civil,3,2026-10,15.42,6
+E00088,Contabilidad,2,2025-10,13.5,5
+E00088,Contabilidad,3,2025-20,17.69,5
+E00088,Contabilidad,4,2026-10,10.57,7
+E00089,Ingeniería de Sistemas,4,2025-10,9.07,5
+E00089,Ingeniería de Sistemas,5,2025-20,7.75,4
+E00089,Ingeniería de Sistemas,6,2026-10,17.95,6
+E00090,Contabilidad,2,2025-10,14.95,7
+E00090,Contabilidad,3,2025-20,11.25,6
+E00090,Contabilidad,4,2026-10,8.69,7
+E00091,Contabilidad,2,2025-10,7.86,6
+E00091,Contabilidad,3,2025-20,9.36,6
+E00091,Contabilidad,4,2026-10,15.13,4
+E00092,Administración,1,2025-10,13.35,5
+E00092,Administración,2,2025-20,8.72,6
+E00092,Administración,3,2026-10,13.8,5
+E00093,Derecho,7,2025-10,10.69,4
+E00093,Derecho,8,2025-20,10.39,7
+E00093,Derecho,9,2026-10,11.44,4
+E00094,Ingeniería Civil,6,2025-10,15.21,7
+E00094,Ingeniería Civil,7,2025-20,12.14,7
+E00094,Ingeniería Civil,8,2026-10,10.68,4
+E00095,Contabilidad,2,2025-10,11.95,7
+E00095,Contabilidad,3,2025-20,15.44,4
+E00095,Contabilidad,4,2026-10,10.94,7
+E00096,Ingeniería de Sistemas,4,2025-10,9.86,6
+E00096,Ingeniería de Sistemas,5,2025-20,10.47,7
+E00096,Ingeniería de Sistemas,6,2026-10,10.55,4
+E00097,Ingeniería Civil,5,2025-10,6.45,7
+E00097,Ingeniería Civil,6,2025-20,10.91,7
+E00097,Ingeniería Civil,7,2026-10,18.83,5
+E00098,Ingeniería Civil,5,2025-10,18.58,4
+E00098,Ingeniería Civil,6,2025-20,11.74,4
+E00098,Ingeniería Civil,7,2026-10,12.57,7
+E00099,Ingeniería de Sistemas,3,2025-10,8.24,6
+E00099,Ingeniería de Sistemas,4,2025-20,13.05,7
+E00099,Ingeniería de Sistemas,5,2026-10,17.27,5
+E00100,Contabilidad,3,2025-10,5.76,7
+E00100,Contabilidad,4,2025-20,14.48,5
+E00100,Contabilidad,5,2026-10,16.78,4
+E00101,Administración,7,2025-10,10.17,6
+E00101,Administración,8,2025-20,17.46,4
+E00101,Administración,9,2026-10,12.48,7
+E00102,Ingeniería Civil,8,2025-10,15.47,7
+E00102,Ingeniería Civil,9,2025-20,10.86,7
+E00102,Ingeniería Civil,10,2026-10,16.14,7
+E00103,Administración,4,2025-10,15.2,7
+E00103,Administración,5,2025-20,12.73,5
+E00103,Administración,6,2026-10,14.91,6
+E00104,Contabilidad,7,2025-10,10.57,7
+E00104,Contabilidad,8,2025-20,18.31,5
+E00104,Contabilidad,9,2026-10,12.61,7
+E00105,Ingeniería de Sistemas,3,2025-10,8.99,4
+E00105,Ingeniería de Sistemas,4,2025-20,12.94,7
+E00105,Ingeniería de Sistemas,5,2026-10,18.34,4
+E00106,Ingeniería Civil,7,2025-10,16.86,5
+E00106,Ingeniería Civil,8,2025-20,17.66,6
+E00106,Ingeniería Civil,9,2026-10,15.37,6
+E00107,Derecho,7,2025-10,9.55,7
+E00107,Derecho,8,2025-20,8.26,6
+E00107,Derecho,9,2026-10,8.62,7
+E00108,Derecho,1,2025-10,8.52,4
+E00108,Derecho,2,2025-20,13.44,6
+E00108,Derecho,3,2026-10,17.54,5
+E00109,Ingeniería de Sistemas,7,2025-10,18.02,4
+E00109,Ingeniería de Sistemas,8,2025-20,12.31,7
+E00109,Ingeniería de Sistemas,9,2026-10,14.27,4
+E00110,Ingeniería de Sistemas,6,2025-10,15.19,4
+E00110,Ingeniería de Sistemas,7,2025-20,12.22,5
+E00110,Ingeniería de Sistemas,8,2026-10,15.8,5
+E00111,Derecho,7,2025-10,8.13,5
+E00111,Derecho,8,2025-20,10.86,5
+E00111,Derecho,9,2026-10,18.34,5
+E00112,Contabilidad,3,2025-10,15.89,5
+E00112,Contabilidad,4,2025-20,10.77,6
+E00112,Contabilidad,5,2026-10,13.56,4
+E00113,Contabilidad,5,2025-10,12.23,7
+E00113,Contabilidad,6,2025-20,11.42,6
+E00113,Contabilidad,7,2026-10,15.52,7
+E00114,Administración,8,2025-10,12.8,6
+E00114,Administración,9,2025-20,13.93,7
+E00114,Administración,10,2026-10,15.81,4
+E00115,Ingeniería Civil,7,2025-10,9.47,6
+E00115,Ingeniería Civil,8,2025-20,11.29,4
+E00115,Ingeniería Civil,9,2026-10,17.35,6
+E00116,Ingeniería de Sistemas,1,2025-10,12.39,7
+E00116,Ingeniería de Sistemas,2,2025-20,16.22,5
+E00116,Ingeniería de Sistemas,3,2026-10,7.38,6
+E00117,Ingeniería Civil,4,2025-10,9.73,5
+E00117,Ingeniería Civil,5,2025-20,9.89,4
+E00117,Ingeniería Civil,6,2026-10,16.55,6
+E00118,Contabilidad,1,2025-10,10.53,6
+E00118,Contabilidad,2,2025-20,12.86,6
+E00118,Contabilidad,3,2026-10,11.7,6
+E00119,Contabilidad,3,2025-10,14.6,6
+E00119,Contabilidad,4,2025-20,18.02,6
+E00119,Contabilidad,5,2026-10,14.12,7
+E00120,Administración,6,2025-10,10.98,4
+E00120,Administración,7,2025-20,11.84,5
+E00120,Administración,8,2026-10,13.23,7
+E00121,Derecho,6,2025-10,15.53,6
+E00121,Derecho,7,2025-20,14.62,4
+E00121,Derecho,8,2026-10,8.7,6
+E00122,Derecho,7,2025-10,,6
+E00122,Derecho,8,2025-20,14.7,4
+E00122,Derecho,9,2026-10,14.38,6
+E00123,Derecho,4,2025-10,10.44,7
+E00123,Derecho,5,2025-20,9.59,6
+E00123,Derecho,6,2026-10,12.12,4
+E00124,Ingeniería de Sistemas,5,2025-10,11.8,7
+E00124,Ingeniería de Sistemas,6,2025-20,14.64,5
+E00124,Ingeniería de Sistemas,7,2026-10,14.46,7
+E00125,Contabilidad,6,2025-10,10.63,7
+E00125,Contabilidad,7,2025-20,8.66,5
+E00125,Contabilidad,8,2026-10,16.29,7
+E00126,Derecho,7,2025-10,10.11,6
+E00126,Derecho,8,2025-20,15.83,7
+E00126,Derecho,9,2026-10,13.59,7
+E00127,Ingeniería Civil,6,2025-10,16.7,6
+E00127,Ingeniería Civil,7,2025-20,15.67,4
+E00127,Ingeniería Civil,8,2026-10,11.44,4
+E00128,Contabilidad,2,2025-10,14.16,5
+E00128,Contabilidad,3,2025-20,10.45,4
+E00128,Contabilidad,4,2026-10,9.86,4
+E00129,Administración,4,2025-10,18.26,5
+E00129,Administración,5,2025-20,12.63,4
+E00129,Administración,6,2026-10,14.83,5
+E00130,Ingeniería Civil,6,2025-10,9.66,5
+E00130,Ingeniería Civil,7,2025-20,13.97,6
+E00130,Ingeniería Civil,8,2026-10,9.08,5
+E00131,Ingeniería Civil,5,2025-10,13.43,4
+E00131,Ingeniería Civil,6,2025-20,11.62,5
+E00131,Ingeniería Civil,7,2026-10,18.28,5
+E00132,Derecho,6,2025-10,13.49,4
+E00132,Derecho,7,2025-20,13.45,7
+E00132,Derecho,8,2026-10,13.87,4
+E00133,Ingeniería de Sistemas,8,2025-10,10.3,4
+E00133,Ingeniería de Sistemas,9,2025-20,13.91,7
+E00133,Ingeniería de Sistemas,10,2026-10,5.77,4
+E00134,Derecho,5,2025-10,12.83,7
+E00134,Derecho,6,2025-20,12.53,7
+E00134,Derecho,7,2026-10,12.41,7
+E00135,Contabilidad,2,2025-10,6.43,4
+E00135,Contabilidad,3,2025-20,13.4,4
+E00135,Contabilidad,4,2026-10,12.26,5
+E00136,Administración,6,2025-10,14.53,7
+E00136,Administración,7,2025-20,16.69,7
+E00136,Administración,8,2026-10,12.88,7
+E00137,Ingeniería de Sistemas,2,2025-10,,5
+E00137,Ingeniería de Sistemas,3,2025-20,9.52,7
+E00137,Ingeniería de Sistemas,4,2026-10,10.94,6
+E00138,Contabilidad,7,2025-10,13.65,7
+E00138,Contabilidad,8,2025-20,12.67,6
+E00138,Contabilidad,9,2026-10,10.42,6
+E00139,Administración,3,2025-10,,4
+E00139,Administración,4,2025-20,9.86,4
+E00139,Administración,5,2026-10,14.13,6
+E00140,Ingeniería Civil,1,2025-10,13.75,6
+E00140,Ingeniería Civil,2,2025-20,11.51,7
+E00140,Ingeniería Civil,3,2026-10,10.3,4
+E00141,Administración,5,2025-10,10.65,5
+E00141,Administración,6,2025-20,16.16,5
+E00141,Administración,7,2026-10,11.82,4
+E00142,Administración,6,2025-10,11.22,4
+E00142,Administración,7,2025-20,13.31,7
+E00142,Administración,8,2026-10,9.09,4
+E00143,Derecho,5,2025-10,15.36,6
+E00143,Derecho,6,2025-20,13.43,6
+E00143,Derecho,7,2026-10,11.87,5
+E00144,Derecho,7,2025-10,14.53,4
+E00144,Derecho,8,2025-20,15.67,4
+E00144,Derecho,9,2026-10,16.31,4
+E00145,Derecho,4,2025-10,10.65,5
+E00145,Derecho,5,2025-20,,6
+E00145,Derecho,6,2026-10,12.0,4
+E00146,Ingeniería de Sistemas,3,2025-10,15.46,5
+E00146,Ingeniería de Sistemas,4,2025-20,13.03,4
+E00146,Ingeniería de Sistemas,5,2026-10,12.04,6
+E00147,Contabilidad,7,2025-10,9.77,6
+E00147,Contabilidad,8,2025-20,25.0,5
+E00147,Contabilidad,9,2026-10,13.05,7
+E00148,Ingeniería de Sistemas,5,2025-10,11.53,7
+E00148,Ingeniería de Sistemas,6,2025-20,10.46,5
+E00148,Ingeniería de Sistemas,7,2026-10,12.57,7
+E00149,Derecho,1,2025-10,15.54,5
+E00149,Derecho,2,2025-20,13.12,5
+E00149,Derecho,3,2026-10,13.22,4
+E00150,Ingeniería de Sistemas,8,2025-10,10.53,7
+E00150,Ingeniería de Sistemas,9,2025-20,,5
+E00150,Ingeniería de Sistemas,10,2026-10,15.62,6
+E00151,Ingeniería de Sistemas,7,2025-10,13.57,4
+E00151,Ingeniería de Sistemas,8,2025-20,12.33,7
+E00151,Ingeniería de Sistemas,9,2026-10,18.25,7
+E00152,Derecho,7,2025-10,10.16,7
+E00152,Derecho,8,2025-20,12.25,6
+E00152,Derecho,9,2026-10,15.96,5
+E00153,Derecho,8,2025-10,16.32,4
+E00153,Derecho,9,2025-20,7.14,7
+E00153,Derecho,10,2026-10,14.25,7
+E00154,Derecho,2,2025-10,11.14,7
+E00154,Derecho,3,2025-20,16.41,5
+E00154,Derecho,4,2026-10,9.39,6
+E00155,Ingeniería Civil,2,2025-10,11.53,5
+E00155,Ingeniería Civil,3,2025-20,12.9,6
+E00155,Ingeniería Civil,4,2026-10,8.51,5
+E00156,Ingeniería Civil,2,2025-10,19.09,5
+E00156,Ingeniería Civil,3,2025-20,12.93,5
+E00156,Ingeniería Civil,4,2026-10,14.85,4
+E00157,Ingeniería Civil,8,2025-10,9.23,7
+E00157,Ingeniería Civil,9,2025-20,13.87,6
+E00157,Ingeniería Civil,10,2026-10,15.77,5
+E00158,Contabilidad,2,2025-10,9.83,7
+E00158,Contabilidad,3,2025-20,10.62,6
+E00158,Contabilidad,4,2026-10,13.91,4
+E00159,Administración,2,2025-10,11.78,4
+E00159,Administración,3,2025-20,16.06,6
+E00159,Administración,4,2026-10,13.59,4
+E00160,Derecho,7,2025-10,11.96,7
+E00160,Derecho,8,2025-20,6.48,4
+E00160,Derecho,9,2026-10,9.4,7
+E00161,Derecho,4,2025-10,11.52,5
+E00161,Derecho,5,2025-20,16.07,4
+E00161,Derecho,6,2026-10,7.79,6
+E00162,Ingeniería de Sistemas,3,2025-10,14.68,4
+E00162,Ingeniería de Sistemas,4,2025-20,13.05,7
+E00162,Ingeniería de Sistemas,5,2026-10,16.22,5
+E00163,Administración,6,2025-10,15.58,6
+E00163,Administración,7,2025-20,11.54,4
+E00163,Administración,8,2026-10,14.06,4
+E00164,Administración,2,2025-10,8.8,7
+E00164,Administración,3,2025-20,11.98,5
+E00164,Administración,4,2026-10,17.7,6
+E00165,Ingeniería de Sistemas,3,2025-10,15.24,7
+E00165,Ingeniería de Sistemas,4,2025-20,11.71,5
+E00165,Ingeniería de Sistemas,5,2026-10,7.15,6
+E00166,Derecho,7,2025-10,9.02,6
+E00166,Derecho,8,2025-20,14.73,4
+E00166,Derecho,9,2026-10,8.88,7
+E00167,Derecho,6,2025-10,15.56,5
+E00167,Derecho,7,2025-20,13.29,6
+E00167,Derecho,8,2026-10,16.28,5
+E00168,Ingeniería Civil,3,2025-10,11.88,4
+E00168,Ingeniería Civil,4,2025-20,11.5,4
+E00168,Ingeniería Civil,5,2026-10,18.07,6
+E00169,Derecho,3,2025-10,11.58,5
+E00169,Derecho,4,2025-20,12.0,5
+E00169,Derecho,5,2026-10,12.84,6
+E00170,Ingeniería Civil,8,2025-10,12.12,6
+E00170,Ingeniería Civil,9,2025-20,13.08,5
+E00170,Ingeniería Civil,10,2026-10,7.75,5
+E00171,Administración,8,2025-10,14.62,7
+E00171,Administración,9,2025-20,11.88,7
+E00171,Administración,10,2026-10,13.63,7
+E00172,Ingeniería Civil,4,2025-10,7.83,5
+E00172,Ingeniería Civil,5,2025-20,13.69,7
+E00172,Ingeniería Civil,6,2026-10,12.3,6
+E00173,Derecho,2,2025-10,12.13,4
+E00173,Derecho,3,2025-20,9.49,6
+E00173,Derecho,4,2026-10,14.53,7
+E00174,Derecho,3,2025-10,13.89,7
+E00174,Derecho,4,2025-20,18.53,7
+E00174,Derecho,5,2026-10,16.59,6
+E00175,Ingeniería de Sistemas,7,2025-10,16.35,5
+E00175,Ingeniería de Sistemas,8,2025-20,14.16,7
+E00175,Ingeniería de Sistemas,9,2026-10,15.91,4
+E00176,Administración,2,2025-10,,6
+E00176,Administración,3,2025-20,13.42,6
+E00176,Administración,4,2026-10,11.42,7
+E00177,Ingeniería Civil,8,2025-10,12.71,4
+E00177,Ingeniería Civil,9,2025-20,13.1,4
+E00177,Ingeniería Civil,10,2026-10,12.79,7
+E00178,Ingeniería de Sistemas,5,2025-10,18.69,5
+E00178,Ingeniería de Sistemas,6,2025-20,12.7,7
+E00178,Ingeniería de Sistemas,7,2026-10,13.89,7
+E00179,Ingeniería de Sistemas,2,2025-10,14.83,4
+E00179,Ingeniería de Sistemas,3,2025-20,9.98,5
+E00179,Ingeniería de Sistemas,4,2026-10,12.51,4
+E00180,Derecho,6,2025-10,10.56,5
+E00180,Derecho,7,2025-20,11.26,4
+E00180,Derecho,8,2026-10,12.17,6
+E00181,Ingeniería de Sistemas,1,2025-10,10.39,7
+E00181,Ingeniería de Sistemas,2,2025-20,15.15,6
+E00181,Ingeniería de Sistemas,3,2026-10,12.99,4
+E00182,Administración,4,2025-10,13.54,4
+E00182,Administración,5,2025-20,13.66,6
+E00182,Administración,6,2026-10,8.15,5
+E00183,Ingeniería de Sistemas,6,2025-10,7.73,5
+E00183,Ingeniería de Sistemas,7,2025-20,11.43,7
+E00183,Ingeniería de Sistemas,8,2026-10,16.4,5
+E00184,Ingeniería Civil,2,2025-10,12.59,7
+E00184,Ingeniería Civil,3,2025-20,14.96,5
+E00184,Ingeniería Civil,4,2026-10,13.46,4
+E00185,Administración,5,2025-10,25.0,7
+E00185,Administración,6,2025-20,12.13,6
+E00185,Administración,7,2026-10,17.21,6
+E00186,Administración,1,2025-10,13.99,6
+E00186,Administración,2,2025-20,12.22,7
+E00186,Administración,3,2026-10,18.32,7
+E00187,Contabilidad,7,2025-10,11.98,7
+E00187,Contabilidad,8,2025-20,14.64,6
+E00187,Contabilidad,9,2026-10,16.23,4
+E00188,Contabilidad,2,2025-10,11.34,7
+E00188,Contabilidad,3,2025-20,8.54,6
+E00188,Contabilidad,4,2026-10,25.0,6
+E00189,Ingeniería de Sistemas,2,2025-10,11.82,7
+E00189,Ingeniería de Sistemas,3,2025-20,15.22,7
+E00189,Ingeniería de Sistemas,4,2026-10,14.63,7
+E00190,Ingeniería de Sistemas,6,2025-10,15.81,7
+E00190,Ingeniería de Sistemas,7,2025-20,11.71,4
+E00190,Ingeniería de Sistemas,8,2026-10,20.0,4
+E00191,Contabilidad,6,2025-10,8.02,5
+E00191,Contabilidad,7,2025-20,12.59,4
+E00191,Contabilidad,8,2026-10,15.56,7
+E00192,Ingeniería de Sistemas,3,2025-10,16.21,4
+E00192,Ingeniería de Sistemas,4,2025-20,13.38,6
+E00192,Ingeniería de Sistemas,5,2026-10,17.3,7
+E00193,Derecho,1,2025-10,9.43,6
+E00193,Derecho,2,2025-20,10.23,6
+E00193,Derecho,3,2026-10,11.87,5
+E00194,Derecho,6,2025-10,13.41,7
+E00194,Derecho,7,2025-20,12.05,4
+E00194,Derecho,8,2026-10,15.23,4
+E00195,Ingeniería Civil,8,2025-10,6.4,4
+E00195,Ingeniería Civil,9,2025-20,12.26,6
+E00195,Ingeniería Civil,10,2026-10,13.73,5
+E00196,Derecho,5,2025-10,8.38,7
+E00196,Derecho,6,2025-20,13.5,4
+E00196,Derecho,7,2026-10,14.54,7
+E00197,Ingeniería Civil,8,2025-10,18.47,6
+E00197,Ingeniería Civil,9,2025-20,12.91,6
+E00197,Ingeniería Civil,10,2026-10,12.05,6
+E00198,Administración,3,2025-10,9.33,5
+E00198,Administración,4,2025-20,13.97,4
+E00198,Administración,5,2026-10,9.56,5
+E00199,Ingeniería Civil,4,2025-10,,6
+E00199,Ingeniería Civil,5,2025-20,12.33,7
+E00199,Ingeniería Civil,6,2026-10,14.26,4
+E00200,Ingeniería de Sistemas,5,2025-10,9.41,7
+E00200,Ingeniería de Sistemas,6,2025-20,17.78,7
+E00200,Ingeniería de Sistemas,7,2026-10,12.99,7
+E00201,Derecho,2,2025-10,,4
+E00201,Derecho,3,2025-20,14.86,7
+E00201,Derecho,4,2026-10,9.46,5
+E00202,Derecho,3,2025-10,13.77,5
+E00202,Derecho,4,2025-20,6.99,4
+E00202,Derecho,5,2026-10,15.71,4
+E00203,Derecho,3,2025-10,12.41,5
+E00203,Derecho,4,2025-20,14.68,6
+E00203,Derecho,5,2026-10,16.43,6
+E00204,Ingeniería de Sistemas,5,2025-10,11.82,5
+E00204,Ingeniería de Sistemas,6,2025-20,10.49,5
+E00204,Ingeniería de Sistemas,7,2026-10,10.15,6
+E00205,Derecho,2,2025-10,11.18,5
+E00205,Derecho,3,2025-20,12.97,5
+E00205,Derecho,4,2026-10,10.4,6
+E00206,Derecho,1,2025-10,8.98,4
+E00206,Derecho,2,2025-20,19.38,6
+E00206,Derecho,3,2026-10,16.57,5
+E00207,Derecho,7,2025-10,12.45,6
+E00207,Derecho,8,2025-20,12.5,6
+E00207,Derecho,9,2026-10,7.61,7
+E00208,Administración,8,2025-10,13.58,4
+E00208,Administración,9,2025-20,12.34,7
+E00208,Administración,10,2026-10,,7
+E00209,Contabilidad,4,2025-10,12.1,6
+E00209,Contabilidad,5,2025-20,14.41,6
+E00209,Contabilidad,6,2026-10,14.57,6
+E00210,Derecho,2,2025-10,12.76,6
+E00210,Derecho,3,2025-20,13.08,7
+E00210,Derecho,4,2026-10,14.53,5
+E00211,Ingeniería Civil,2,2025-10,19.87,7
+E00211,Ingeniería Civil,3,2025-20,15.26,5
+E00211,Ingeniería Civil,4,2026-10,19.29,6
+E00212,Derecho,6,2025-10,11.5,5
+E00212,Derecho,7,2025-20,13.29,7
+E00212,Derecho,8,2026-10,9.49,7
+E00213,Administración,8,2025-10,20.0,7
+E00213,Administración,9,2025-20,14.05,5
+E00213,Administración,10,2026-10,13.61,4
+E00214,Administración,8,2025-10,15.73,7
+E00214,Administración,9,2025-20,12.91,4
+E00214,Administración,10,2026-10,13.37,7
+E00215,Ingeniería Civil,5,2025-10,12.28,6
+E00215,Ingeniería Civil,6,2025-20,7.95,4
+E00215,Ingeniería Civil,7,2026-10,9.84,5
+E00216,Administración,5,2025-10,15.28,4
+E00216,Administración,6,2025-20,10.52,6
+E00216,Administración,7,2026-10,15.15,4
+E00217,Ingeniería Civil,2,2025-10,8.8,6
+E00217,Ingeniería Civil,3,2025-20,16.3,6
+E00217,Ingeniería Civil,4,2026-10,13.06,7
+E00218,Derecho,1,2025-10,,4
+E00218,Derecho,2,2025-20,17.6,7
+E00218,Derecho,3,2026-10,14.15,7
+E00219,Ingeniería Civil,3,2025-10,11.05,5
+E00219,Ingeniería Civil,4,2025-20,16.65,7
+E00219,Ingeniería Civil,5,2026-10,17.91,6
+E00220,Derecho,6,2025-10,12.71,7
+E00220,Derecho,7,2025-20,12.35,4
+E00220,Derecho,8,2026-10,10.55,6
+E00221,Administración,2,2025-10,16.94,4
+E00221,Administración,3,2025-20,12.5,7
+E00221,Administración,4,2026-10,12.57,5
+E00222,Ingeniería de Sistemas,8,2025-10,17.36,5
+E00222,Ingeniería de Sistemas,9,2025-20,8.26,7
+E00222,Ingeniería de Sistemas,10,2026-10,12.27,5
+E00223,Ingeniería Civil,1,2025-10,8.82,5
+E00223,Ingeniería Civil,2,2025-20,10.95,4
+E00223,Ingeniería Civil,3,2026-10,10.09,7
+E00224,Ingeniería Civil,7,2025-10,14.13,7
+E00224,Ingeniería Civil,8,2025-20,16.41,4
+E00224,Ingeniería Civil,9,2026-10,9.49,5
+E00225,Derecho,4,2025-10,5.0,7
+E00225,Derecho,5,2025-20,9.03,7
+E00225,Derecho,6,2026-10,12.28,6
+E00226,Derecho,6,2025-10,14.7,6
+E00226,Derecho,7,2025-20,11.49,5
+E00226,Derecho,8,2026-10,11.75,6
+E00227,Derecho,5,2025-10,14.27,6
+E00227,Derecho,6,2025-20,20.0,6
+E00227,Derecho,7,2026-10,11.72,7
+E00228,Administración,8,2025-10,8.59,6
+E00228,Administración,9,2025-20,6.5,6
+E00228,Administración,10,2026-10,10.4,6
+E00229,Ingeniería de Sistemas,7,2025-10,15.38,6
+E00229,Ingeniería de Sistemas,8,2025-20,,5
+E00229,Ingeniería de Sistemas,9,2026-10,12.38,4
+E00230,Administración,8,2025-10,15.39,6
+E00230,Administración,9,2025-20,12.97,6
+E00230,Administración,10,2026-10,10.92,6
+E00231,Ingeniería Civil,2,2025-10,10.02,5
+E00231,Ingeniería Civil,3,2025-20,10.35,4
+E00231,Ingeniería Civil,4,2026-10,11.22,5
+E00232,Ingeniería de Sistemas,2,2025-10,9.77,7
+E00232,Ingeniería de Sistemas,3,2025-20,11.36,5
+E00232,Ingeniería de Sistemas,4,2026-10,15.97,4
+E00233,Derecho,3,2025-10,7.15,7
+E00233,Derecho,4,2025-20,16.87,7
+E00233,Derecho,5,2026-10,10.05,6
+E00234,Administración,5,2025-10,8.91,4
+E00234,Administración,6,2025-20,14.09,5
+E00234,Administración,7,2026-10,12.29,4
+E00235,Ingeniería Civil,7,2025-10,14.38,4
+E00235,Ingeniería Civil,8,2025-20,11.74,7
+E00235,Ingeniería Civil,9,2026-10,13.46,6
+E00236,Ingeniería de Sistemas,1,2025-10,11.13,6
+E00236,Ingeniería de Sistemas,2,2025-20,11.7,6
+E00236,Ingeniería de Sistemas,3,2026-10,12.41,6
+E00237,Contabilidad,8,2025-10,14.24,7
+E00237,Contabilidad,9,2025-20,11.97,6
+E00237,Contabilidad,10,2026-10,13.52,5
+E00238,Contabilidad,5,2025-10,14.37,5
+E00238,Contabilidad,6,2025-20,15.71,6
+E00238,Contabilidad,7,2026-10,13.24,5
+E00239,Ingeniería Civil,7,2025-10,14.68,4
+E00239,Ingeniería Civil,8,2025-20,9.8,7
+E00239,Ingeniería Civil,9,2026-10,12.07,5
+E00240,Contabilidad,6,2025-10,11.32,5
+E00240,Contabilidad,7,2025-20,15.95,7
+E00240,Contabilidad,8,2026-10,13.13,6
+E00241,Administración,5,2025-10,9.6,6
+E00241,Administración,6,2025-20,11.06,6
+E00241,Administración,7,2026-10,12.62,4
+E00242,Contabilidad,5,2025-10,11.99,5
+E00242,Contabilidad,6,2025-20,10.06,6
+E00242,Contabilidad,7,2026-10,14.98,4
+E00243,Administración,6,2025-10,11.41,5
+E00243,Administración,7,2025-20,11.61,7
+E00243,Administración,8,2026-10,15.85,6
+E00244,Contabilidad,8,2025-10,17.09,5
+E00244,Contabilidad,9,2025-20,13.34,4
+E00244,Contabilidad,10,2026-10,8.48,7
+E00245,Derecho,6,2025-10,16.41,4
+E00245,Derecho,7,2025-20,14.82,5
+E00245,Derecho,8,2026-10,11.47,6
+E00246,Derecho,8,2025-10,12.25,4
+E00246,Derecho,9,2025-20,,7
+E00246,Derecho,10,2026-10,8.68,4
+E00247,Derecho,8,2025-10,14.19,7
+E00247,Derecho,9,2025-20,9.92,7
+E00247,Derecho,10,2026-10,9.47,6
+E00248,Ingeniería de Sistemas,7,2025-10,11.5,6
+E00248,Ingeniería de Sistemas,8,2025-20,15.01,4
+E00248,Ingeniería de Sistemas,9,2026-10,8.46,4
+E00249,Contabilidad,6,2025-10,11.85,4
+E00249,Contabilidad,7,2025-20,9.44,4
+E00249,Contabilidad,8,2026-10,16.38,6
+E00250,Contabilidad,3,2025-10,12.71,5
+E00250,Contabilidad,4,2025-20,,7
+E00250,Contabilidad,5,2026-10,5.0,6
+E00251,Contabilidad,8,2025-10,17.46,7
+E00251,Contabilidad,9,2025-20,8.23,4
+E00251,Contabilidad,10,2026-10,11.19,5
+E00252,Administración,2,2025-10,8.97,5
+E00252,Administración,3,2025-20,15.99,5
+E00252,Administración,4,2026-10,12.87,5
+E00253,Ingeniería de Sistemas,1,2025-10,16.31,7
+E00253,Ingeniería de Sistemas,2,2025-20,12.55,7
+E00253,Ingeniería de Sistemas,3,2026-10,14.01,6
+E00254,Ingeniería Civil,5,2025-10,10.97,5
+E00254,Ingeniería Civil,6,2025-20,17.45,4
+E00254,Ingeniería Civil,7,2026-10,11.15,4
+E00255,Contabilidad,1,2025-10,13.07,4
+E00255,Contabilidad,2,2025-20,14.12,7
+E00255,Contabilidad,3,2026-10,9.18,4
+E00256,Ingeniería Civil,1,2025-10,10.3,7
+E00256,Ingeniería Civil,2,2025-20,9.53,4
+E00256,Ingeniería Civil,3,2026-10,14.4,5
+E00257,Derecho,5,2025-10,13.66,6
+E00257,Derecho,6,2025-20,19.65,6
+E00257,Derecho,7,2026-10,13.5,5
+E00258,Contabilidad,5,2025-10,19.11,6
+E00258,Contabilidad,6,2025-20,19.78,5
+E00258,Contabilidad,7,2026-10,15.73,7
+E00259,Derecho,8,2025-10,15.64,7
+E00259,Derecho,9,2025-20,13.8,6
+E00259,Derecho,10,2026-10,11.98,6
+E00260,Contabilidad,3,2025-10,10.1,7
+E00260,Contabilidad,4,2025-20,13.12,5
+E00260,Contabilidad,5,2026-10,15.14,7
+E00261,Ingeniería de Sistemas,7,2025-10,,5
+E00261,Ingeniería de Sistemas,8,2025-20,12.23,7
+E00261,Ingeniería de Sistemas,9,2026-10,13.09,4
+E00262,Contabilidad,6,2025-10,15.02,4
+E00262,Contabilidad,7,2025-20,7.5,4
+E00262,Contabilidad,8,2026-10,11.75,6
+E00263,Contabilidad,1,2025-10,14.36,5
+E00263,Contabilidad,2,2025-20,11.62,7
+E00263,Contabilidad,3,2026-10,14.67,6
+E00264,Ingeniería de Sistemas,4,2025-10,19.32,5
+E00264,Ingeniería de Sistemas,5,2025-20,14.46,7
+E00264,Ingeniería de Sistemas,6,2026-10,12.65,5
+E00265,Derecho,4,2025-10,11.23,6
+E00265,Derecho,5,2025-20,14.34,6
+E00265,Derecho,6,2026-10,10.29,6
+E00266,Administración,5,2025-10,15.53,6
+E00266,Administración,6,2025-20,9.49,4
+E00266,Administración,7,2026-10,12.72,7
+E00267,Administración,4,2025-10,10.87,5
+E00267,Administración,5,2025-20,15.25,5
+E00267,Administración,6,2026-10,16.79,7
+E00268,Administración,3,2025-10,,5
+E00268,Administración,4,2025-20,11.59,5
+E00268,Administración,5,2026-10,15.57,7
+E00269,Derecho,6,2025-10,12.74,7
+E00269,Derecho,7,2025-20,18.56,7
+E00269,Derecho,8,2026-10,15.62,5
+E00270,Ingeniería Civil,8,2025-10,17.65,5
+E00270,Ingeniería Civil,9,2025-20,16.25,4
+E00270,Ingeniería Civil,10,2026-10,11.13,4
+E00271,Ingeniería de Sistemas,1,2025-10,13.28,5
+E00271,Ingeniería de Sistemas,2,2025-20,9.92,4
+E00271,Ingeniería de Sistemas,3,2026-10,12.89,7
+E00272,Administración,1,2025-10,12.61,7
+E00272,Administración,2,2025-20,12.71,7
+E00272,Administración,3,2026-10,12.55,4
+E00273,Ingeniería de Sistemas,5,2025-10,10.6,7
+E00273,Ingeniería de Sistemas,6,2025-20,12.45,5
+E00273,Ingeniería de Sistemas,7,2026-10,14.06,5
+E00274,Ingeniería Civil,4,2025-10,13.84,6
+E00274,Ingeniería Civil,5,2025-20,13.94,7
+E00274,Ingeniería Civil,6,2026-10,10.83,4
+E00275,Administración,7,2025-10,10.83,5
+E00275,Administración,8,2025-20,13.57,6
+E00275,Administración,9,2026-10,10.66,4
+E00276,Ingeniería de Sistemas,7,2025-10,7.67,7
+E00276,Ingeniería de Sistemas,8,2025-20,10.56,4
+E00276,Ingeniería de Sistemas,9,2026-10,15.38,5
+E00277,Ingeniería de Sistemas,8,2025-10,15.43,6
+E00277,Ingeniería de Sistemas,9,2025-20,9.43,4
+E00277,Ingeniería de Sistemas,10,2026-10,18.31,5
+E00278,Ingeniería Civil,8,2025-10,8.87,6
+E00278,Ingeniería Civil,9,2025-20,14.13,6
+E00278,Ingeniería Civil,10,2026-10,13.34,4
+E00279,Ingeniería Civil,6,2025-10,15.03,5
+E00279,Ingeniería Civil,7,2025-20,,7
+E00279,Ingeniería Civil,8,2026-10,15.28,5
+E00280,Derecho,7,2025-10,11.91,6
+E00280,Derecho,8,2025-20,9.33,4
+E00280,Derecho,9,2026-10,16.28,6
+E00281,Ingeniería de Sistemas,2,2025-10,7.71,6
+E00281,Ingeniería de Sistemas,3,2025-20,15.21,7
+E00281,Ingeniería de Sistemas,4,2026-10,15.62,6
+E00282,Contabilidad,8,2025-10,12.48,5
+E00282,Contabilidad,9,2025-20,8.59,7
+E00282,Contabilidad,10,2026-10,18.62,5
+E00283,Derecho,7,2025-10,16.58,5
+E00283,Derecho,8,2025-20,15.14,4
+E00283,Derecho,9,2026-10,14.51,5
+E00284,Contabilidad,6,2025-10,13.86,6
+E00284,Contabilidad,7,2025-20,13.24,6
+E00284,Contabilidad,8,2026-10,13.19,7
+E00285,Administración,5,2025-10,14.03,7
+E00285,Administración,6,2025-20,13.77,7
+E00285,Administración,7,2026-10,9.63,4
+E00286,Ingeniería de Sistemas,2,2025-10,,6
+E00286,Ingeniería de Sistemas,3,2025-20,9.19,6
+E00286,Ingeniería de Sistemas,4,2026-10,11.65,7
+E00287,Ingeniería de Sistemas,5,2025-10,,5
+E00287,Ingeniería de Sistemas,6,2025-20,15.69,5
+E00287,Ingeniería de Sistemas,7,2026-10,,6
+E00288,Administración,5,2025-10,11.32,7
+E00288,Administración,6,2025-20,14.1,6
+E00288,Administración,7,2026-10,14.44,7
+E00289,Administración,8,2025-10,13.58,5
+E00289,Administración,9,2025-20,10.22,7
+E00289,Administración,10,2026-10,11.35,4
+E00290,Ingeniería Civil,5,2025-10,,4
+E00290,Ingeniería Civil,6,2025-20,15.56,7
+E00290,Ingeniería Civil,7,2026-10,12.15,6
+E00291,Contabilidad,6,2025-10,7.93,5
+E00291,Contabilidad,7,2025-20,15.36,6
+E00291,Contabilidad,8,2026-10,9.87,5
+E00292,Contabilidad,6,2025-10,19.57,5
+E00292,Contabilidad,7,2025-20,,6
+E00292,Contabilidad,8,2026-10,11.26,7
+E00293,Derecho,4,2025-10,11.88,7
+E00293,Derecho,5,2025-20,15.16,6
+E00293,Derecho,6,2026-10,15.92,5
+E00294,Derecho,1,2025-10,15.54,7
+E00294,Derecho,2,2025-20,,6
+E00294,Derecho,3,2026-10,12.28,4
+E00295,Contabilidad,8,2025-10,14.63,6
+E00295,Contabilidad,9,2025-20,14.95,5
+E00295,Contabilidad,10,2026-10,11.85,4
+E00296,Contabilidad,8,2025-10,7.83,7
+E00296,Contabilidad,9,2025-20,6.36,7
+E00296,Contabilidad,10,2026-10,11.54,4
+E00297,Administración,2,2025-10,14.75,6
+E00297,Administración,3,2025-20,14.44,5
+E00297,Administración,4,2026-10,12.46,7
+E00298,Administración,7,2025-10,12.28,4
+E00298,Administración,8,2025-20,15.32,5
+E00298,Administración,9,2026-10,13.15,7
+E00299,Administración,7,2025-10,8.6,5
+E00299,Administración,8,2025-20,14.04,6
+E00299,Administración,9,2026-10,16.44,6
+E00300,Contabilidad,2,2025-10,12.95,4
+E00300,Contabilidad,3,2025-20,15.37,6
+E00300,Contabilidad,4,2026-10,8.76,6
+E00150,Ingeniería de Sistemas,9,2025-20,,5
+E00246,Derecho,8,2025-10,12.25,4
+E00108,Derecho,3,2026-10,17.54,5
+E00059,Ingeniería Civil,8,2025-20,8.59,7
+E00028,Contabilidad,7,2026-10,8.41,5
+E00159,Administración,3,2025-20,16.06,6
+E00198,Administración,5,2026-10,9.56,5
+E00017,Ingeniería de Sistemas,4,2025-10,18.24,4
+E00156,Ingeniería Civil,2,2025-10,19.09,5
+E00174,Derecho,5,2026-10,16.59,6
